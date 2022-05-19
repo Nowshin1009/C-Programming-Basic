@@ -1,2 +1,0 @@
-# Class-beginners
-Structure programming
